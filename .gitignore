@@ -1,0 +1,8 @@
+# VSCode
+.vscode/
+
+# MacOS Finder
+.DS_Store
+
+# Pycharm
+__pycache__/
